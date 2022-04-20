@@ -35,12 +35,14 @@ Submissions are evaluated on Mean Score, which at Kaggle is a micro-average F1-s
 <br>
     <img src="https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/assets/segmentation.png">
 
-    The preprocessing code can be found here ![segmentation](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/utils/segment_images.py)
+    The preprocessing code can be found here
+    [segmentation](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/utils/segment_images.py)
 
 * Balancing Dataset
 <br>
     <img src="https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/assets/augmentation.png">
-    The preprocessing code can be found here ![augmentation]("https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/utils/augment_dataset.py)
+    The preprocessing code can be found here
+    [augmentation]("https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/utils/augment_dataset.py)
 
 ### Models
 * [K-Means Clustering](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/code/pca_kmeans_knn/pca-knn-kmeans.ipynb)
