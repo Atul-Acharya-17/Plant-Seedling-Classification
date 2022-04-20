@@ -33,17 +33,17 @@ Submissions are evaluated on Mean Score, which at Kaggle is a micro-average F1-s
 
 * Segmentation
 
-    <img src="https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/assets/segmentation.png">
+    <img src="https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/assets/segmentation.png" width="200" height="200">
 
     [segmentation code](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/utils/segment_images.py)
 
 * Balancing Dataset
 
-    <img src="https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/assets/augmentation.png">
+    <img src="https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/assets/augmentation.png" width="200" height="200">
 
     [augmentation code](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/utils/augment_dataset.py)
 
-### Models
+### Models and Techniques
 * [K-Means Clustering](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/code/pca_kmeans_knn/pca-knn-kmeans.ipynb)
 * [K-Neirest Neighbours Classifier](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/code/pca_kmeans_knn/pca-knn-kmeans.ipynb)
 * [Convolutional Neural Networks](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/code/cnn/cnn-original-dataset.ipynb)
