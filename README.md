@@ -49,6 +49,7 @@ Submissions are evaluated on Mean Score, which at Kaggle is a micro-average F1-s
 * [Convolutional Neural Networks](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/code/cnn/cnn-original-dataset.ipynb)
 * [EfficientNetB3](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/code/EfficientNet/efficientnetb3.ipynb)
 * [Xception](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/code/xception/plantseedling-xception.ipynb)
+* [Resnet-50](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/code/resnet/resnet50-transfer-learning.ipynb)
 * [Inception-ResNet-v2](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/code/inception_resnet_v2/plantseedling-inceptionresnetv2.ipynb)
 * [Vision Transformer](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/code/transformers/vision_transformer_pretrained.ipynb)
 * [Weighted Average Ensemble](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/code/ensemble/ensemble.ipynb)
