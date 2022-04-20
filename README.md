@@ -33,13 +33,13 @@ Submissions are evaluated on Mean Score, which at Kaggle is a micro-average F1-s
 
 * Segmentation
 
-    <img src="https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/assets/segmentation.png" width="200" height="200">
+    <img src="https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/assets/segmentation.png" width="400" height="400">
 
     [segmentation code](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/utils/segment_images.py)
 
 * Balancing Dataset
 
-    <img src="https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/assets/augmentation.png" width="200" height="200">
+    <img src="https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/assets/augmentation.png" width="400" height="400">
 
     [augmentation code](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/utils/augment_dataset.py)
 
