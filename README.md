@@ -83,7 +83,7 @@ P(X) = 0.1 * EfficientNetB3(X) + 0.5 * Inception-ResNet-v2(X) + 0.4 * Xception(X
 
 ## Team Members
 
-* [Atul Acharya](https://github.com/ABHINAV112)
+* [Atul Acharya](https://github.com/Atul-Acharya-17)
 * [Tran Hien Van](https://github.com/hienvantran)
 * [Rachita Agrawal](https://github.com/rachita7)
 * [Aks Tayal](https://github.com/tayalaks2001)
