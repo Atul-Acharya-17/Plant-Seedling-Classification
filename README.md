@@ -77,6 +77,10 @@ P(X) = 0.1 * EfficientNetB3(X) + 0.5 * Inception-ResNet-v2(X) + 0.4 * Xception(X
 ## Final Submission
 [final_submission.csv](https://github.com/Atul-Acharya-17/Plant-Seedling-Classification/blob/master/submissions/final_submission.csv)
 
+## Presentation Link
+
+[Youtube](https://www.youtube.com/watch?v=M80sN3afPJQ)
+
 ## Model Weights Links
 
 * [Model Weights](https://entuedu-my.sharepoint.com/personal/hienvan001_e_ntu_edu_sg/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fhienvan001%5Fe%5Fntu%5Fedu%5Fsg%2FDocuments%2FT%C3%A0i%20li%E1%BB%87u%20h%E1%BB%8Dc%20t%E1%BA%ADp%2FCZ4041%2FModel)
